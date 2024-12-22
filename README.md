@@ -20,3 +20,5 @@ the code's a bit messy but feel free to add or enhance stuff
 - Install [Tampermonkey](https://www.tampermonkey.net/) if not already installed
 - Create a new script and paste the CSS
 - Replace the var colors stored in the first :root() lines as you wish
+
+## ! For this theme to work properly, you must disable Google's native auto dark mode — the CSS handles it by itself.
