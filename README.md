@@ -1,5 +1,6 @@
 # google-enhanced
-a neumorphic theme for google, following your space's colors if you're using arc
+a neumorphic theme for google, following your space's colors if you're using arc\
+
 the code's a bit messy but feel free to add or enhance stuff
 
 ![First illustration of the theme](https://raw.githubusercontent.com/basilegrnd/google-enhanced/refs/heads/main/screenshot1.jpeg)
